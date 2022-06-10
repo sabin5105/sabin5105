@@ -2,7 +2,7 @@
 
 Passionate about Data-science, backend developer from SEOUL🇰🇷 but born in baltimore🇺🇸
 
-- 🔭 I founded Music curation company 'Music on place'
+- 🔭 founder of Music curation company 'Music on place'
 - 🌱 I’m currently learning Datascience
 - 👯 I’m looking to collaborate on anybody!!
 - 🤔 I’m looking for help with Pandas
