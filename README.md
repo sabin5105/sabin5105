@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionate about Data-science, backend developer from SEOUL🇰🇷 but born in baltimore🇺🇸
+Passionate about Data-science✌🏻
 
 - 🔭 founder of Music curation company 'Music on place'
 - 🌱 I’m currently learning Datascience
