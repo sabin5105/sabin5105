@@ -6,6 +6,7 @@ Passionate about Data-science✌🏻
 - 🌱 I’m currently learning Datascience
 - 👯 I’m looking to collaborate on anybody!!
 - 🤔 I’m looking for help with ML
+- 🇺🇸 Born in baltimore, 🇰🇷 living in seoul now
 - 💬 Ask me about algorithm with c++ or python [here](https://github.com/sabin5105/algorithms/issues)
 - 📫 How to reach me: sabin5105@gmail.com | [instagram - @24bean](https://www.instagram.com/24_bean)
 - ⚡ Fun fact: I was a B-boy like break dancer🤸🏼
