@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Passionate about Data-science✌🏻
+Passionate about Data-science, ML✌🏻
 
 - 🔭 founder of Music curation company 'Music on place'
-- 🌱 I’m currently learning Datascience
-- 👯 I’m looking to collaborate on anybody!!
-- 🤔 I’m looking for help with ML
+- 🌱 I’m currently learning Datascience, ML
+- 👯 I’m looking to collaborate on anybody!! Plz be free to contact me
+- 🤔 I’m looking for help with ANYTHINGS
 - 🇺🇸 Born in baltimore, 🇰🇷 living in seoul now
 - 💬 Ask me about algorithm with c++ or python [here](https://github.com/sabin5105/algorithms/issues)
 - 📫 How to reach me: sabin5105@gmail.com | [instagram - @24bean](https://www.instagram.com/24_bean)
