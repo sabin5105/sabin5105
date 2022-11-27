@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Passionate about Data-science, ML✌🏻
+Passionate about ML & DATA✌🏻
 
 - 🔭 founder of Music curation company 'Music on place'
-- 🌱 I’m currently learning Datascience, ML
+- 🌱 I’m currently learning ML & DATA
 - 👯 I’m looking to collaborate on anybody!! Plz be free to contact me
 - 🤔 I’m looking for help with ANYTHINGS
 - 🇺🇸 Born in baltimore, 🇰🇷 living in seoul now
