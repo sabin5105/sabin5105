@@ -14,6 +14,9 @@ Passionate about ML & DATA✌🏻
 <hr>
 
 👨🏻‍💻 BLOG : [MYBLOG!](https://https://24bean.tistory.com)
+
+📄 RESUME : [RESUME.pdf](https://github.com/sabin5105/sabin5105/files/10103647/AI_resume.pdf)
+
 <hr>
 <p>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
