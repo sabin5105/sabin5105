@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionate about ML & DATA✌🏻
+Passionate about Deep Learning✌🏻
 
 - 🔭 founder of Music curation company 'Music on place'
 - 🌱 I’m currently learning NLP & Graphic network & Data things
@@ -14,8 +14,6 @@ Passionate about ML & DATA✌🏻
 <hr>
 
 👨🏻‍💻 BLOG : [MYBLOG!](https://https://24bean.tistory.com)
-
-📄 RESUME : [RESUME.pdf](https://github.com/sabin5105/sabin5105/files/10103647/AI_resume.pdf)
 
 <hr>
 <p>
