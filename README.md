@@ -13,7 +13,7 @@ Passionate about Deep Learning✌🏻
 
 <hr>
 
-👨🏻‍💻 BLOG : [MYBLOG!](https://https://24bean.tistory.com)
+👨🏻‍💻 BLOG : [MYBLOG!](https://24bean.tistory.com)
 
 <hr>
 <p>
