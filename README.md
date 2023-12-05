@@ -4,7 +4,10 @@
 Hello@World:~$ whoami?
 ```
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=tistory&link=https://24bean.tistory.com)](https://24bean.tistory.com)  [![GMail Badge](http://img.shields.io/badge/-GMail-white?style=flat-square&logo=gmail&link=https://sabin5105@gmail.com)](sabin5105@gmail.com) [![HAI LAB](http://img.shields.io/badge/-HAI%20LAB-grey?style=flat-square&logo=microsoftoutlook&link=https://sb_lee@seoultech.ac.kr)](sb_lee@seoultech.ac.kr) [![RESUME](http://img.shields.io/badge/-RESUME-black?style=flat-square&logo=readme)]([resume_sabinlee_AI_data.pdf](https://github.com/sabin5105/sabin5105/files/13556940/resume_sabinlee_AI_data.pdf))
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=tistory&link=https://24bean.tistory.com)](https://24bean.tistory.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabin5105@gmail.com)](mailto:sabin5105@gmail.com)
+[![HAI LAB](http://img.shields.io/badge/-HAI%20LAB-grey?style=flat-square&logo=microsoftoutlook&link=mailto://sb_lee@seoultech.ac.kr)](mailto:sb_lee@seoultech.ac.kr) 
+[![RESUME](http://img.shields.io/badge/-RESUME-black?style=flat-square&logo=readme)](https://github.com/sabin5105/sabin5105/files/13556940/resume_sabinlee_AI_data.pdf)
 
 
 🇺🇸🇰🇷 Born in baltimore, living in seoul now
@@ -40,8 +43,7 @@ Hello@World:~$ whoami?
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
