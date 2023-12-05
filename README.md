@@ -1,30 +1,51 @@
-### Hi there 👋
+## PERSONAL INFO
 
-Passionate about Deep Learning✌🏻
+```console
+Hello@World:~$ whoami?
+```
 
-- 🔭 founder of Music curation company 'Music on place'
-- 🌱 I’m currently learning NLP & Graphic network & Data things
-- 👯 I’m looking to collaborate on anybody!! Plz be free to contact me
-- 🤔 I’m looking for help with ANYTHINGS
-- 🇺🇸 Born in baltimore, 🇰🇷 living in seoul now
-- 💬 Ask me about algorithm with c++ or python [here](https://github.com/sabin5105/algorithms/issues)
-- 📫 How to reach me: sabin5105@gmail.com | [instagram - @24bean](https://www.instagram.com/24_bean)
-- ⚡ Fun fact: I was a B-boy like break dancer🤸🏼
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=tistory&link=https://24bean.tistory.com)](https://24bean.tistory.com)  [![GMail Badge](http://img.shields.io/badge/-GMail-white?style=flat-square&logo=gmail&link=https://sabin5105@gmail.com)](sabin5105@gmail.com) [![HAI LAB](http://img.shields.io/badge/-HAI%20LAB-grey?style=flat-square&logo=microsoftoutlook&link=https://sb_lee@seoultech.ac.kr)](sb_lee@seoultech.ac.kr) [![RESUME](http://img.shields.io/badge/-RESUME-black?style=flat-square&logo=readme)]([resume_sabinlee_AI_data.pdf](https://github.com/sabin5105/sabin5105/files/13556940/resume_sabinlee_AI_data.pdf))
 
-<hr>
 
-👨🏻‍💻 BLOG : [MYBLOG!](https://24bean.tistory.com)
+🇺🇸🇰🇷 Born in baltimore, living in seoul now
 
-<hr>
-<p>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-</p>
-<hr>
+🎶 Founder of AI-based Music curation company 'Music on place"
 
-![sabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabin5105&show_icons=true&theme=dark&count_private=true)
+## Tech Stack
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sabin5105)](https://solved.ac/sabin5105)
+✨ Programming Language ✨
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CUDA%20C++-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+
+🔥 Framework & Library 🔥
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3776AB?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+
+💻 OS 💻
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white">
+
+💡 ETC 💡
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
