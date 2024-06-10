@@ -7,7 +7,6 @@ Hello@World:~$ whoami?
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=tistory&link=https://24bean.tistory.com)](https://24bean.tistory.com) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabin5105@gmail.com)](mailto:sabin5105@gmail.com)
 [![HAI LAB](http://img.shields.io/badge/-HAI%20LAB-grey?style=flat-square&logo=microsoftoutlook&link=mailto://sb_lee@seoultech.ac.kr)](mailto:sb_lee@seoultech.ac.kr) 
-[![RESUME](http://img.shields.io/badge/-RESUME-black?style=flat-square&logo=readme)](https://github.com/sabin5105/sabin5105/files/13556940/resume_sabinlee_AI_data.pdf)
 
 
 🇺🇸🇰🇷 Born in baltimore, living in seoul now
