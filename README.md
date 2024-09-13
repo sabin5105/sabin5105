@@ -3,11 +3,7 @@
 ```console
 Hello@World:~$ whoami?
 ```
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=tistory&link=https://24bean.tistory.com)](https://24bean.tistory.com) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabin5105@gmail.com)](mailto:sabin5105@gmail.com)
-[![HAI LAB](http://img.shields.io/badge/-HAI%20LAB-grey?style=flat-square&logo=microsoftoutlook&link=mailto://sb_lee@seoultech.ac.kr)](mailto:sb_lee@seoultech.ac.kr) 
-
+[![Curriculum Vitae](https://img.shields.io/badge/CV-0077B5?style=for-the-badge&logo=readme&logoColor=white)](https://energetic-bowl-75c.notion.site/SABIN-LEE-ea0ea65ce9054c5585a5a9f0e084d875?pvs=4)
 
 🇺🇸🇰🇷 Born in baltimore, living in seoul now
 
