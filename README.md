@@ -1,13 +1,6 @@
-## PERSONAL INFO
-
-```console
-Hello@World:~$ whoami?
-```
 [![Curriculum Vitae](https://img.shields.io/badge/CV-0077B5?style=for-the-badge&logo=readme&logoColor=white)](https://energetic-bowl-75c.notion.site/SABIN-LEE-ea0ea65ce9054c5585a5a9f0e084d875?pvs=4)
 
-🇺🇸🇰🇷 Born in baltimore, living in seoul now
-
-🎶 Founder of AI-based Music curation company 'Music on place"
+🇺🇸 Born in Baltimore 🇰🇷 Living in Seoul
 
 ## Tech Stack
 
